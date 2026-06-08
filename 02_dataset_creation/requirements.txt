@@ -1,0 +1,4 @@
+datasets
+matplotlib
+Pillow
+tqdm
